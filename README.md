@@ -1,2 +1,2 @@
 # Local-Storage
-A javascript to understand local storage and event delegation.
+A javascript application to understand local storage and event delegation.
